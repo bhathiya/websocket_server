@@ -1,4 +1,4 @@
-# websocket_server
+# WebSocket/REST Server
 WebSocket/REST server implementation with Ballerina
 
 ## Start server

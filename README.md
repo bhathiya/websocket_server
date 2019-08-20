@@ -2,7 +2,7 @@
 WebSocket/REST server implementation with Ballerina
 
 ## Start server
-$ ballerina run ws_server.bal
+    $ ballerina run ws_server.bal
 
 ## REST endpoints
  GET		http://localhost:9090/backend/notificationmanager/notifications<br>

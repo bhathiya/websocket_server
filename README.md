@@ -1,5 +1,5 @@
 # websocket_server
-WebSocket/REST server using Ballerina
+WebSocket/REST server implementation with Ballerina
 
 ## Start server
 $ ballerina run ws_server.bal
